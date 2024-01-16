@@ -1,0 +1,5 @@
+export { default as Login } from './login/Login.jsx'
+export { default as Home } from './home/Home.jsx'
+export { default as MathPage } from './math/Math.jsx'
+export { default as MathLesson } from './math-lesson/MathLessson.jsx'
+export { default as Geo } from './geo/Geo.jsx'
